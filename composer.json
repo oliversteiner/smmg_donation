@@ -1,0 +1,14 @@
+{
+  "name": "drupal/smmg_donation",
+  "type": "drupal-module",
+  "description": "Donation Module for Small Messages",
+  "keywords": ["Drupal"],
+  "license": "GPL-3.0+",
+  "homepage": "https://github.com/oliversteiner/smmg_donation",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/oliversteiner/smmg_donation/issues",
+    "source": "https://github.com/oliversteiner/smmg_donation"
+  },
+  "require": { }
+}
